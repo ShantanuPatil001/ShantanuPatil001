@@ -4,5 +4,7 @@
 
 
 <div>
+   <center>
   <h1>Hi! </h1>
+    </center>
 </div>
