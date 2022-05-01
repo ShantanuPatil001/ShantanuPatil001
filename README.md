@@ -7,5 +7,7 @@
 # Hi
 
 ### About Me
+- I am Full Stack Developer.
+- Explore New Technologies.
 
 
