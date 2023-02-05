@@ -8,6 +8,6 @@
 
 ### About Me
 - I am Full Stack Developer.
-- Explore New Technologies.
+- Love to Explore New Technologies.
 
 
